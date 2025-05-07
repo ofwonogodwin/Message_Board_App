@@ -1,0 +1,18 @@
+# Message Board App
+
+This is a minimal Django project that demonstrates how to work with Django's built-in SQLite database. It features a simple app with CRUD operations on a `Person` model.
+
+---
+
+## 📚 Features
+
+- Django + SQLite setup
+- One app: `records`
+- Full CRUD (Create, Read, Update, Delete)
+- Simple HTML templates
+- Uses Django’s `ModelForm` for forms
+
+---
+
+## 📁 Project Structure
+

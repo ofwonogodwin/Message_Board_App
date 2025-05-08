@@ -4,7 +4,7 @@ This is a minimal Django project that demonstrates how to work with Django's bui
 
 ---
 
-## 📚 Features
+## 📚 Features.
 
 - Django + SQLite setup
 - One app: `records`

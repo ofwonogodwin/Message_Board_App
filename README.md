@@ -12,7 +12,4 @@ This is a minimal Django project that demonstrates how to work with Django's bui
 - Simple HTML templates
 - Uses Django’s `ModelForm` for forms
 
----
-
-## 📁 Project Structure
 

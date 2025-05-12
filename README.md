@@ -9,7 +9,7 @@ This is a minimal Django project that demonstrates how to work with Django's bui
 - Django + SQLite setup.
 - One app: `records`
 - Full CRUD (Create, Read, Update, Delete)
-- Simple HTML templates
+- Simple HTML templates plus some bootstrap
 - Uses Django’s `ModelForm` for forms
 
 

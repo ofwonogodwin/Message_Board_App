@@ -11,5 +11,6 @@ This is a minimal Django project that demonstrates how to work with Django's bui
 - Full CRUD (Create, Read, Update, Delete)
 - Simple HTML templates plus some bootstrap
 - Uses Django’s `ModelForm` for forms
+## UML diagram
 
 
